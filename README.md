@@ -1,7 +1,7 @@
 # QuantumBuy
 
-[![Flutter](https://github.com/Shivani-Radhakrishnan/QuantumBuy--Inclusive-shopping-Platform/actions/workflows/flutter.yml/badge.svg?branch=main)](https://github.com/Shivani-Radhakrishnan/QuantumBuy--Inclusive-shopping-Platform/actions/workflows/flutter.yml)
-[![ML service](https://github.com/Shivani-Radhakrishnan/QuantumBuy--Inclusive-shopping-Platform/actions/workflows/ml.yml/badge.svg?branch=main)](https://github.com/Shivani-Radhakrishnan/QuantumBuy--Inclusive-shopping-Platform/actions/workflows/ml.yml)
+[![Flutter](https://github.com/Shivani-Radhakrishnan/quantumbuy-accessible-shopping/actions/workflows/flutter.yml/badge.svg?branch=main)](https://github.com/Shivani-Radhakrishnan/quantumbuy-accessible-shopping/actions/workflows/flutter.yml)
+[![ML service](https://github.com/Shivani-Radhakrishnan/quantumbuy-accessible-shopping/actions/workflows/ml.yml/badge.svg?branch=main)](https://github.com/Shivani-Radhakrishnan/quantumbuy-accessible-shopping/actions/workflows/ml.yml)
 
 **An accessible shopping app for people with disabilities, built with Flutter.**
 
